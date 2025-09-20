@@ -1618,17 +1618,7 @@
                 "Placeholder": "#fcd34d",
                 "Text": "#fef3c7"
             },
-            "Dark": {
-                "Accent": "#6366f1",
-                "Background": "#312e81",
-                "Button": "#6366f1",
-                "Icon": "#c7d2fe",
-                "Name": "Indigo",
-                "Outline": "#e0e7ff",
-                "Placeholder": "#a5b4fc",
-                "Text": "#e0e7ff"
-            },
-            
+            "Dark": "[Circular Reference]",
             "Emerald": {
                 "Accent": "#10b981",
                 "Background": "#064e3b",

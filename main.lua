@@ -27,7 +27,7 @@ local Localization = WindUI:Localization({
 })
 
 WindUI.TransparencyValue = 0.2
-WindUI:SetTheme("Dark")
+WindUI:SetTheme("Indigo")
 
 local function gradient(text, startColor, endColor)
     local result = ""
